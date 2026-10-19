@@ -112,8 +112,8 @@ sed                                            4.10-2                      alpm
 shadow                                         4.20.0.arch1-1              alpm         
 sqlite                                         3.54.0-1                    alpm         
 stdlib                                         go1.26.1-X:nodwarf5         go-module    
-systemd                                        262-1                       alpm         
-systemd-libs                                   262-1                       alpm         
+systemd                                        262.1-1                     alpm         
+systemd-libs                                   262.1-1                     alpm         
 tar                                            1.35-5                      alpm         
 tpm2-tss                                       4.2.0-2                     alpm         
 tzdata                                         2026e-1                     alpm         
