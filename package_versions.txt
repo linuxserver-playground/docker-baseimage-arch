@@ -52,7 +52,7 @@ kmod                                           34.3-1                      alpm
 krb5                                           1.22.2-1                    alpm       
 leancrypto                                     1.9.1-1                     alpm       
 less                                           1:710-1                     alpm       
-libarchive                                     3.8.10-1                    alpm       
+libarchive                                     3.8.11-1                    alpm       
 libassuan                                      3.0.0-1                     alpm       
 libbsd                                         0.12.2-2                    alpm       
 libcap                                         2.78-1                      alpm       
