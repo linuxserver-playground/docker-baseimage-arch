@@ -22,7 +22,7 @@ dbus-broker-units                              37-3                        alpm
 dbus-units                                     37-3                        alpm       
 device-mapper                                  2.03.44-1                   alpm       
 e2fsprogs                                      1.47.4-1                    alpm       
-expat                                          2.9.0-1                     alpm       
+expat                                          2.10.0-1                    alpm       
 file                                           5.48-1                      alpm       
 filesystem                                     2025.10.12-1                alpm       
 findutils                                      4.11.0-1                    alpm       
