@@ -9,7 +9,7 @@ brotli                                         1.2.1-1                     alpm
 busybox                                        1.36.1-4                    alpm       
 bzip2                                          1.0.8-6                     alpm       
 ca-certificates                                20240618-1                  alpm       
-ca-certificates-mozilla                        3.132-1                     alpm       
+ca-certificates-mozilla                        3.133-1                     alpm       
 ca-certificates-utils                          20240618-1                  alpm       
 catatonit                                      0.2.1-2                     alpm       
 command-line-arguments                         UNKNOWN                     go-module  
