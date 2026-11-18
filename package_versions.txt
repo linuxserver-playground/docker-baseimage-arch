@@ -59,7 +59,7 @@ libcap                                         2.78-1                      alpm
 libcap-ng                                      0.9.6-1                     alpm       
 libelf                                         0.197-1                     alpm       
 libevent                                       2.1.13-3                    alpm       
-libffi                                         3.8.0-1                     alpm       
+libffi                                         3.8.1-1                     alpm       
 libgcc                                         16.2.1+r23+gd564253eb6c8-1  alpm       
 libgcrypt                                      1.12.4-1                    alpm       
 libgomp                                        16.2.1+r23+gd564253eb6c8-1  alpm       
@@ -115,7 +115,7 @@ stdlib                                         go1.26.1-X:nodwarf5         go-mo
 systemd                                        262.2-1                     alpm       
 systemd-libs                                   262.2-1                     alpm       
 tar                                            1.35-5                      alpm       
-tpm2-tss                                       4.2.1-2                     alpm       
+tpm2-tss                                       4.2.2s-1                    alpm       
 tzdata                                         2026f-1                     alpm       
 util-linux                                     2.42.4-1                    alpm       
 util-linux-libs                                2.42.4-1                    alpm       
