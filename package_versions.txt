@@ -34,7 +34,7 @@ glibc                                          2.44+r78+gfcfb867c58ab-1    alpm
 gmp                                            6.3.0-3                     alpm       
 gnulib-l10n                                    20241231-1                  alpm       
 gnupg                                          2.4.9-4                     alpm       
-gnutls                                         3.8.13-3                    alpm       
+gnutls                                         3.8.14-1                    alpm       
 gpgme                                          2.2.0-1                     alpm       
 grep                                           3.12-2                      alpm       
 gzip                                           1.15-1                      alpm       
