@@ -14,7 +14,7 @@ ca-certificates-utils                          20240618-1                  alpm
 catatonit                                      0.2.1-2                     alpm       
 command-line-arguments                         UNKNOWN                     go-module  
 coreutils                                      9.12-3                      alpm       
-cryptsetup                                     2.8.8-2                     alpm       
+cryptsetup                                     2.8.9-1                     alpm       
 curl                                           8.23.0-2                    alpm       
 dbus                                           1.16.4-1                    alpm       
 dbus-broker                                    37-3                        alpm       
@@ -48,7 +48,7 @@ kbd                                            2.10.0-1                    alpm
 kernel.org/pub/linux/libs/security/libcap/cap  v1.2.78                     go-module  
 kernel.org/pub/linux/libs/security/libcap/psx  v1.2.78                     go-module  
 keyutils                                       1.6.3-4                     alpm       
-kmod                                           34.3-2                      alpm       
+kmod                                           34.4-1                      alpm       
 krb5                                           1.22.2-2                    alpm       
 leancrypto                                     1.9.1-1                     alpm       
 less                                           1:710-1                     alpm       
