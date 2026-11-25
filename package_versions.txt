@@ -115,11 +115,11 @@ stdlib                                         go1.26.1-X:nodwarf5         go-mo
 systemd                                        262.2-1                     alpm       
 systemd-libs                                   262.2-1                     alpm       
 tar                                            1.35-5                      alpm       
-tpm2-tss                                       4.2.2s-1                    alpm       
+tpm2-tss                                       4.2.2s-2                    alpm       
 tzdata                                         2026f-1                     alpm       
 util-linux                                     2.42.4-1                    alpm       
 util-linux-libs                                2.42.4-1                    alpm       
 which                                          2.25-1                      alpm       
 xz                                             5.8.4-1                     alpm       
 zlib                                           1:1.4-1                     alpm       
-zstd                                           1.5.7-3                     alpm       
+zstd                                           1.6.0-1                     alpm       
