@@ -29,7 +29,7 @@ findutils                                      4.11.0-1                    alpm
 gawk                                           5.4.1-1                     alpm       
 gdbm                                           1.26-2                      alpm       
 gettext                                        1.0-2                       alpm       
-glib2                                          2.90.1-1                    alpm       
+glib2                                          2.90.2-1                    alpm       
 glibc                                          2.44+r78+gfcfb867c58ab-1    alpm       
 gmp                                            6.3.0-3                     alpm       
 gnulib-l10n                                    20241231-1                  alpm       
